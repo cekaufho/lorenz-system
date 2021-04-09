@@ -3,5 +3,4 @@ Numerical solution to the Lorenz system with nonlinear analysis, complementary w
 
 <p align="center">
   <img src="https://github.com/cekaufho/lorenz-system/blob/master/images/trajectory1.png?raw=true" alt="Trajectories"/><br><br>
-  <img src="https://github.com/cekaufho/lorenz-system/blob/master/images/exponents.png?raw=true" alt="Exponents"/><br><br>
 </p>  
